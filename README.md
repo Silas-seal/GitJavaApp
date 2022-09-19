@@ -4,3 +4,4 @@ Git with Ant and Jenkins Integration [Automated builds, tests and deployments]
 <div style="background: lightgreen">
 This is a Sample Git repo that automatically gets built and tested using Jenkins tool hosted on the development machine.
 <div>
+  <h2>Reost, Silas Muwanguzi</h2>
